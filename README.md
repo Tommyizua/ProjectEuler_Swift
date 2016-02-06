@@ -1,4 +1,4 @@
-# Project Euler tasks: 1-50 on Swift
+# Project Euler problems: 1-50 on Swift
 
 Here is my account, there statistics:
 https://projecteuler.net/progress=Tommyizua
